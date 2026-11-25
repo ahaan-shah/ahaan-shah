@@ -1,0 +1,4 @@
+build/full-*.svg
+build/fonts/
+.venv/
+__pycache__/
